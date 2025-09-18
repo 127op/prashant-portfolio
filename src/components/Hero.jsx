@@ -16,7 +16,7 @@ export default function Hero() {
         <a href="https://linkedin.com/in/127op" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2 bg-blue-600 rounded hover:bg-blue-700">
           <FaLinkedin /> LinkedIn
         </a>
-        <a href="https://drive.google.com/file/d/15SLyCmDyAyUoFVpJ2Awk65nrlP4Xz8am/view?usp=share_link" download className="px-4 py-2 bg-green-600 rounded hover:bg-green-700">
+        <a href="https://drive.google.com/file/d/1PpQKwWXrOYh3b_YWPhBpmS5FPpqi6_zb/view?usp=sharing" download className="px-4 py-2 bg-green-600 rounded hover:bg-green-700">
           View CV
         </a>
       </div>
