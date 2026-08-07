@@ -17,11 +17,11 @@ export default function Hero() {
           <FaLinkedin /> LinkedIn
         </a>
         <a href="https://drive.google.com/file/d/1wdlNAtAtoAYbzyKJyNuRJZanRWGtXD9V/view?usp=sharing" download className="px-4 py-2 bg-green-600 rounded hover:bg-green-700">
-          View CV
+          View Resume
         </a>
       </div>
       <div className="mt-3 text-sm text-gray-300">
-        Sikandra Rao, UP · (+91) 7037349494 · pk21.prashant@gmail.com
+        Noida, India · +91 7037349494 · pk21.prashant@gmail.com
       </div>
     </section>
   );
