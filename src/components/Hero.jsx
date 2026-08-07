@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 export default function Hero() {
   return (
     <section id="hero" className="flex flex-col items-center justify-center min-h-screen px-4 text-center text-white bg-gray-900">
-      <p className="text-xs tracking-widest text-gray-300 uppercase">Aspiring Software Developer</p>
+      <p className="text-xs tracking-widest text-gray-300 uppercase">Aspiring software engineer </p>
       <h1 className="mt-2 text-4xl font-extrabold md:text-6xl">Prashant Kushwah</h1>
       <p className="max-w-2xl mt-4 text-gray-200">
         Skilled in Java, ReactJS, Firebase, and MySQL with hands-on experience building full‑stack web and Android apps.
